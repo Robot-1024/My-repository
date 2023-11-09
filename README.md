@@ -3,7 +3,7 @@
 ```
 #include <iostream>
 using namespace std;
-在t main(){
+int main(){
   return 0;
 }
 ```
